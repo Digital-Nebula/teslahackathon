@@ -1,2 +1,2 @@
-# tesla_hacks
+# teslahackathon
 Space for all our cool stuff
